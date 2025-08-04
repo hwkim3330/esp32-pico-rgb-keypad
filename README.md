@@ -19,11 +19,11 @@ Pimoroni **Pico RGB Keypad**를
 | **6**      | SDA    | I²C SDA          | **GPIO 21**      | 노랑             |
 | **7**      | SCL    | I²C SCL          | **GPIO 22**      | 보라             |
 | **4**      | INT    | TCA9555 INT (선택) | **GPIO 23**      | 회색, 사용 안 해도 무방 |
-![IMG_3137](https://github.com/user-attachments/assets/36d22be3-b07a-4ae8-a674-01a20f51a51f)
+
 
 > ● LED 타입: **APA102 (DotStar)**   
 > ● ‘–’ 패드는 전부 GND ― 하나만 연결해도 무방
-
+![IMG_3137](https://github.com/user-attachments/assets/36d22be3-b07a-4ae8-a674-01a20f51a51f)
 ---
 
 ## 🎛️ 전체 예제 (버튼 → BLE ‘0’-‘F’ + LED 점등)
