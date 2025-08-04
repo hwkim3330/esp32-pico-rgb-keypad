@@ -1,9 +1,11 @@
 # ESP32-PICO RGB Keypad
+<img width="852" height="78" alt="스크린샷 2025-08-04 125040" src="https://github.com/user-attachments/assets/b488fc70-6d98-4027-a814-e399ffe4f581" />
 
 Pimoroni **Pico RGB Keypad**를  
 **ESP32-PICO-KIT**(내장 플래시) 보드와 점퍼 몇 가닥으로 연결해  
 – 16개 버튼 : BLE HID(무선 키보드)로 ‘0’ ~ ‘F’ 전송  
 – 16개 RGB LED : 각 키 상태 표시
+![IMG_3129](https://github.com/user-attachments/assets/a5082fe6-c8e4-464c-9716-944e98a1e355)
 
 ---
 
