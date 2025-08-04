@@ -7,6 +7,7 @@ Pimoroni **Pico RGB Keypad**를
 – 16개 RGB LED : 각 키 상태 표시
 ![IMG_3129](https://github.com/user-attachments/assets/a5082fe6-c8e4-464c-9716-944e98a1e355)
 ## 📌 핀 맵 (최종 확정)
+![IMG_3134](https://github.com/user-attachments/assets/508b9190-78b7-48a5-a412-4a6cae07a347)
 
 | 키패드 패키지 번호 | 키패드 라벨 | 기능               | ESP32-PICO-KIT 핀 | 비고             |
 | ---------- | ------ | ---------------- | ---------------- | -------------- |
@@ -18,6 +19,7 @@ Pimoroni **Pico RGB Keypad**를
 | **6**      | SDA    | I²C SDA          | **GPIO 21**      | 노랑             |
 | **7**      | SCL    | I²C SCL          | **GPIO 22**      | 보라             |
 | **4**      | INT    | TCA9555 INT (선택) | **GPIO 23**      | 회색, 사용 안 해도 무방 |
+![IMG_3137](https://github.com/user-attachments/assets/36d22be3-b07a-4ae8-a674-01a20f51a51f)
 
 > ● LED 타입: **APA102 (DotStar)**   
 > ● ‘–’ 패드는 전부 GND ― 하나만 연결해도 무방
